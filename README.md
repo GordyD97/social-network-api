@@ -8,17 +8,17 @@ This is an **API** for a social network web application where users can share th
 
 # Table of contents
 
-   * [ApplicationPreview](# Application Preview)
-   * [Features](# Features)
-   * [Installation](# Installation)
-   * [Usage](# Usage)
-   * [Test](# Test)
-   * [Contribution](# Contribution)
-   * [Credits](# Credits)
-   * [Technologies](# Technologies)
-   * [UserStory](# User Story)
-   * [AcceptanceCriteria](# Acceptance Criteria)
-   * [Questions](# Questions)
+   * [ApplicationPreview](#Application-Preview)
+   * [Features](#Features)
+   * [Installation](#Installation)
+   * [Usage](#Usage)
+   * [Test](#Test)
+   * [Contribution](#Contribution)
+   * [Credits](#Credits)
+   * [Technologies](#Technologies)
+   * [UserStory](#User-Story)
+   * [AcceptanceCriteria](#Acceptance-Criteria)
+   * [Questions](#Questions)
 
 # Application Preview
 
