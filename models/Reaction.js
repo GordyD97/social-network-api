@@ -1,6 +1,8 @@
 const { ObjectId } = require('bson');
 const { Schema, Types } = require('mongoose');
-const { format_date } = require('../utils/dateFormat')
+const moment = require("moment");
+
+// const { format_date } = require('../utils/dateFormat')
 
 
 const reactionSchema = new Schema(
@@ -21,7 +23,8 @@ const reactionSchema = new Schema(
         createdAt: {
             type: Date,
             default: Date.now,
-            get: timestamp => format_date(timestamp),
+            get: (createdAtVal) =>
+                moment(createdAtVal).format("MMM DD, YYYY [at] hh:mm a"),
         },
     },
     {

@@ -17,7 +17,7 @@ module.exports = {
             )
             .catch((err) => res.status(500).json(err));
     },
-    // create a new Thought
+    // create a new Thought -post
     createThought(req, res) {
         Thought.create(req.body)
             .then((thought) => {
