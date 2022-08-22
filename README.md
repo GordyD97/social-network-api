@@ -1,4 +1,4 @@
-# social-network-api
+# social-network-api: Gordon D.
 
 # License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -7,7 +7,7 @@
 This is an **API** for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. It uses Express.js for routing, a MongoDB database, the Mongoose ODM, and Moment.js to format timestamps. The seed data is created using Insomnia.
 
 # Table of contents
-```md
+
    * [ApplicationPreview](# Application Preview)
    * [Features](# Features)
    * [Installation](# Installation)
@@ -19,7 +19,7 @@ This is an **API** for a social network web application where users can share th
    * [UserStory](# User Story)
    * [AcceptanceCriteria](# Acceptance Criteria)
    * [Questions](# Questions)
-```
+
 # Application Preview
 
 ## Features
