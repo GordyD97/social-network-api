@@ -32,8 +32,9 @@ To install necessary dependencies, navigate to the root directory and run the fo
 ```
 
 ## Usage
+This api is a base strucute for a company that wants to add social features to their site, the great part about this api is that the nosql database allows it to handle a large amount of data. No matter how big the user populatiuon is the api will be able to handle. 
 
-## Test
+
 
 ## Contribution
 If you would like to contribute to this project reach out to me. Contact Information can be found below or by clicking on the Questions link provided in the Table of Contents.
@@ -49,6 +50,12 @@ If you would like to contribute to this project reach out to me. Contact Informa
    * Javascript
 ```
 
+## Test
+![](./assets/socialnetworkapi.gif)
+
+## Screenshot
+![](./assets/socialusers.PNG)
+![](./assets/thoughtssocial.PNG)
 
 
 
